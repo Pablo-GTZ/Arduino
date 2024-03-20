@@ -1,2 +1,2 @@
 # Arduino
-Códigos de arduino para que no se me olvide
+More dedicated to doing school projects and learning new programming structures.
